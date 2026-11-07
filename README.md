@@ -1,11 +1,15 @@
 # appdev
-My first repository
+*My first repository*
+
+---
 
 ## My Favorite Movie 
 
 ### The School for Good and Evil
 
 **Genre:** Fantasy, Adventure, Drama
+
+---
 
 **Why I like it:**
 - I enjoy watching fantasy movies.
