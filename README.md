@@ -6,7 +6,7 @@
 ##                                         My Favorite Movie 
 
 ### The School for Good and Evil
-
+![The School for Good and Evil poster](https://github.com/user-attachments/assets/d2fbf8c4-fbb7-4a81-aab9-008e7d3239ef)
 **Genre:** Fantasy, Adventure, Drama
 
 ---
