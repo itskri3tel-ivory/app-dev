@@ -1,4 +1,4 @@
-# appdev
+# app-dev
 *My first repository*
 
 ---
